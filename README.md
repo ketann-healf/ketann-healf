@@ -8,68 +8,78 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=14&duration=4000&pause=2000&color=9BA9E6&center=true&vCenter=true&width=500&lines=building+the+data+layer+at+healf.com;turning+raw+commerce+data+into+decisions;Hammersmith%2C+London+%F0%9F%87%AC%F0%9F%87%A7" />
 
-<br>
-
----
-
-<br>
-
-### `$ cat /healf/four-pillars.yml`
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<strong><code>EAT</code></strong>
-<br>
-</td>
-<td align="center" width="25%">
-<strong><code>MOVE</code></strong>
-<br>
-</td>
-<td align="center" width="25%">
-<strong><code>MIND</code></strong>
-<br>
-</td>
-<td align="center" width="25%">
-<strong><code>SLEEP</code></strong>
-<br>
-</td>
-</tr>
-</table>
-
-<sub>the four pillars of wellbeing that power everything we build at <strong>healf</strong></sub>
-
-<br><br>
-
----
-
-<br>
-
-### `$ whoami`
-
 </div>
 
-```yaml
-name: Ketann Ingaale
-role: Data Engineer @ Healf
-location: Hammersmith, London
-company: healf.com — the UK's #1 health & wellness marketplace
-mission: "Wellbeing Made Personal"
-stack:
-  data: [dbt, Snowflake, SQL, Jinja]
-  code: [Python, Bash]
-  ops:  [Docker, Git, GitHub Actions, Linux]
-currently:
-  - building 70+ dbt models across commerce, marketing & finance
-  - automating tROAS modelling & LTV analysis
-  - shipping data pipelines that don't break at 3am
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-<br>
+### `$ whoami --verbose`
+
+</div>
+
+```console
+ketann@healf:~$ neofetch
+```
+
+```
+                                            ketann@healf
+  ██╗  ██╗███████╗ █████╗ ██╗     ███████╗  ────────────────────────────────────────
+  ██║  ██║██╔════╝██╔══██╗██║     ██╔════╝  Name:      Ketann Ingaale
+  ███████║█████╗  ███████║██║     █████╗    Role:      Data Engineer
+  ██╔══██║██╔══╝  ██╔══██║██║     ██╔══╝    Company:   Healf — UK's #1 wellness marketplace
+  ██║  ██║███████╗██║  ██║███████╗██║       Location:  Hammersmith, London 🇬🇧
+  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝       Mission:   Wellbeing Made Personal
+                                            ────────────────────────────────────────
+                                            OS:        Ubuntu / macOS
+                                            Shell:     zsh + oh-my-zsh
+                                            Editor:    VS Code
+                                            Languages: Python, SQL, Jinja, Bash
+                                            Data:      dbt, Snowflake, PostHog
+                                            Ops:       Docker, Git, GitHub Actions
+                                            ────────────────────────────────────────
+                                            Uptime:    since Oct 2025
+                                            Repos:     how2go/healf-data (70+ models)
+                                            Pipeline:  Shopify → Snowflake → dbt → BI
+```
+
+```console
+ketann@healf:~$ cat currently_building.log
+```
+
+```
+[2026-04-02] 🔧 70+ dbt models across commerce, marketing & finance
+[2026-04-02] 📊 tROAS modelling & automated bid optimisation
+[2026-04-02] 🔬 Customer LTV analysis & RFM segmentation
+[2026-04-02] 🧪 A/B test analytics with PostHog integration
+[2026-04-02] 📦 Subscription & inventory forecasting
+[2026-04-02] 🚀 Data pipelines that don't break at 3am
+```
+
+```console
+ketann@healf:~$ cat data_pipeline.sh
+```
+
+```
+  ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐
+  │ Shopify  │───▶│Snowflake │───▶│   dbt    │───▶│  Marts   │───▶│    BI    │
+  │ Klaviyo  │    │  (raw)   │    │ (70+     │    │ (clean   │    │ Dashbds  │
+  │ PostHog  │    │          │    │  models) │    │  tables) │    │ Reports  │
+  │ Gorgias  │    │          │    │          │    │          │    │ Alerts   │
+  │ Meta Ads │    │          │    │          │    │          │    │          │
+  │ Google   │    │          │    │          │    │          │    │          │
+  └──────────┘    └──────────┘    └──────────┘    └──────────┘    └──────────┘
+       ▲                               │
+       │         ┌──────────┐          │
+       └─────────│  Seeds   │──────────┘
+                 │  Tests   │
+                 │  Macros  │
+                 └──────────┘
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
 
 ### `$ stack --icons`
 
@@ -88,19 +98,17 @@ currently:
 ![Git](https://img.shields.io/badge/Git-2A745D?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-9BA9E6?style=for-the-badge&logo=linux&logoColor=white)
 
-<br>
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br>
+<div align="center">
 
 ### `$ git log --oneline --graph`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketann-healf&hide_border=true&area=true&bg_color=0d1117&color=9BA9E6&line=2A745D&point=9BA9E6&area_color=2A745D" width="98%" />
-
 <br>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketann-healf&hide_border=true&area=true&bg_color=0d1117&color=9BA9E6&line=2A745D&point=9BA9E6&area_color=2A745D" width="98%" />
 
 <br>
 
@@ -112,14 +120,15 @@ currently:
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ketann-healf&theme=2077" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ketann-healf&theme=2077&utcOffset=0" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ketann-healf&theme=2077" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ketann-healf&theme=2077&utcOffset=0" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ketann-healf&theme=2077" width="32%" />
 
-<br>
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br>
+<div align="center">
 
 ### `$ contributions --visualize`
 
@@ -131,39 +140,66 @@ currently:
   <img alt="contribution snake" src="https://raw.githubusercontent.com/ketann-healf/ketann-healf/output/github-snake-dark.svg" width="98%" />
 </picture>
 
-<br>
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br>
+<div align="center">
 
-### `$ echo $QUOTE`
-
-<br>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=The%20goal%20is%20to%20turn%20data%20into%20information%2C%20and%20information%20into%20insight.&author=Carly%20Fiorina)](https://github.com/PiyushSuthar/github-readme-quotes)
+### `$ fortune | cowsay`
 
 <br>
 
----
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true&bg_color=0d1117)](https://github.com/PiyushSuthar/github-readme-quotes)
 
 <br>
 
-### `$ connect`
+<sub><i>refreshes with a new quote every time you visit</i></sub>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+### `$ connect --all`
 
 <br>
 
 [![Email](https://img.shields.io/badge/ketann@healf.com-2A745D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketann@healf.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-9BA9E6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ketann-ingaale)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9BA9E6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketann-ingaale)
 [![Healf](https://img.shields.io/badge/healf.com-000000?style=for-the-badge&logo=shopify&logoColor=white)](https://www.healf.com/)
 
 <br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ketann-healf&color=2A745D&style=for-the-badge&label=PROFILE+VIEWS)
 
-<br>
+<br><br>
 
-<sub><strong>Wellbeing Made Personal</strong> · built with data, powered by purpose</sub>
+```
+██╗    ██╗███████╗██╗     ██╗     ██████╗ ███████╗██╗███╗   ██╗ ██████╗
+██║    ██║██╔════╝██║     ██║     ██╔══██╗██╔════╝██║████╗  ██║██╔════╝
+ ██║ █╗ ██║█████╗  ██║     ██║     ██████╔╝█████╗  ██║██╔██╗ ██║██║  ███╗
+ ██║███╗██║██╔══╝  ██║     ██║     ██╔══██╗██╔══╝  ██║██║╚██╗██║██║   ██║
+ ╚███╔███╔╝███████╗███████╗███████╗██████╔╝███████╗██║██║ ╚████║╚██████╔╝
+ ╚══╝╚══╝ ╚══════╝╚══════╝╚══════╝╚═════╝ ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝
+
+      ███╗   ███╗ █████╗ ██████╗ ███████╗
+      ████╗ ████║██╔══██╗██╔══██╗██╔════╝
+    ██╔████╔██║███████║██║  ██║█████╗
+    ██║╚██╔╝██║██╔══██║██║  ██║██╔══╝
+      ██║ ╚═╝ ██║██║  ██║██████╔╝███████╗
+      ╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝
+
+    ██████╗ ███████╗██████╗ ███████╗ ██████╗ ███╗   ██╗ █████╗ ██╗
+    ██╔══██╗██╔════╝██╔══██╗██╔════╝██╔═══██╗████╗  ██║██╔══██╗██║
+    ██████╔╝█████╗  ██████╔╝███████╗██║   ██║██╔██╗ ██║███████║██║
+    ██╔═══╝ ██╔══╝  ██╔══██╗╚════██║██║   ██║██║╚██╗██║██╔══██║██║
+         ██║     ███████╗██║  ██║███████║╚██████╔╝██║ ╚████║██║  ██║███████╗
+           ╚═╝     ╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝  
+```
+
+<sub><strong>built with data, powered by purpose</strong></sub>
 
 <br>
 
