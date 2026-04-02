@@ -6,27 +6,6 @@
 
 <br>
 
-```
-  ╭─────────────────────────────────────────────╮
- ╱                                             ╱│
-╱  $ git push origin main                     ╱ │
-╱  ➜ Enumerating objects: done.               ╱  │
-╱  ➜ Writing objects: 100%                    ╱   │
-╱                                             ╱    │
-╱  To github.com:ketann-healf ──────────      ╱     │
-╱     main → main                             ╱      │
-╭─────────────────────────────────────────────╮       │
-│                                             │       │
-│     ✓  All checks passed                   │      ╱
-│     ✓  Models deployed                     │     ╱
-│     ✓  Tests green                         │    ╱
-│                                             │   ╱
-╰─────────────────────────────────────────────╯  ╱
- ╰─────────────────────────────────────────────╯
-```
-
-<br>
-
 [![dbt](https://skillicons.dev/icons?i=py,postgres,docker,git,github,linux&theme=dark)](https://skillicons.dev)
 
 </div>
@@ -42,15 +21,6 @@ location: Hammersmith, London
 stack: [dbt, Snowflake, Python, SQL, Jinja]
 focus: turning raw commerce & marketing data into decisions
 ```
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ketann-healf&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com?user=ketann-healf&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=545D68" width="49%" />
 
 </div>
 
