@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2A745D&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=%24+git+push+origin+main+%E2%9E%9C+deploying+data+pipelines...;%24+dbt+build+%E2%9E%9C+70%2B+models+passed+%E2%9C%93;%24+snowflake+%E2%9E%9C+transforming+wellness+data...;%24+python+run+%E2%9E%9C+analytics+engine+online+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2A745D&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=%24+git+push+origin+main+%E2%9E%9C+deploying+data+pipelines...;%24+dbt+build+%E2%9E%9C+70%2B+models+passed+%E2%9C%93;)](https://git.io/typing-svg)
 
 <br>
 
@@ -174,34 +174,13 @@ ketann@healf:~$ cat data_pipeline.sh
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ketann-healf&color=2A745D&style=for-the-badge&label=PROFILE+VIEWS)
 
-<br><br>
+<br>
 
-```
-██╗    ██╗███████╗██╗     ██╗     ██████╗ ███████╗██╗███╗   ██╗ ██████╗
-██║    ██║██╔════╝██║     ██║     ██╔══██╗██╔════╝██║████╗  ██║██╔════╝
- ██║ █╗ ██║█████╗  ██║     ██║     ██████╔╝█████╗  ██║██╔██╗ ██║██║  ███╗
- ██║███╗██║██╔══╝  ██║     ██║     ██╔══██╗██╔══╝  ██║██║╚██╗██║██║   ██║
- ╚███╔███╔╝███████╗███████╗███████╗██████╔╝███████╗██║██║ ╚████║╚██████╔╝
- ╚══╝╚══╝ ╚══════╝╚══════╝╚══════╝╚═════╝ ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝
-
-      ███╗   ███╗ █████╗ ██████╗ ███████╗
-      ████╗ ████║██╔══██╗██╔══██╗██╔════╝
-    ██╔████╔██║███████║██║  ██║█████╗
-    ██║╚██╔╝██║██╔══██║██║  ██║██╔══╝
-      ██║ ╚═╝ ██║██║  ██║██████╔╝███████╗
-      ╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝
-
-    ██████╗ ███████╗██████╗ ███████╗ ██████╗ ███╗   ██╗ █████╗ ██╗
-    ██╔══██╗██╔════╝██╔══██╗██╔════╝██╔═══██╗████╗  ██║██╔══██╗██║
-    ██████╔╝█████╗  ██████╔╝███████╗██║   ██║██╔██╗ ██║███████║██║
-    ██╔═══╝ ██╔══╝  ██╔══██╗╚════██║██║   ██║██║╚██╗██║██╔══██║██║
-         ██║     ███████╗██║  ██║███████║╚██████╔╝██║ ╚████║██║  ██║███████╗
-           ╚═╝     ╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝  
-```
-
-<sub><strong>built with data, powered by purpose</strong></sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2A745D,100:9BA9E6&height=80&text=WELLBEING%20MADE%20PERSONAL&fontSize=30&fontColor=ffffff&fontAlignY=50&animation=twinkling" width="80%" />
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=3000&pause=1500&color=9BA9E6&center=true&vCenter=true&width=400&lines=EAT+%E2%80%A2+MOVE+%E2%80%A2+MIND+%E2%80%A2+SLEEP;data+%E2%80%A2+pipelines+%E2%80%A2+insights;built+with+data%2C+powered+by+purpose" />
 
 </div>
 
